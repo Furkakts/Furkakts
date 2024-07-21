@@ -1,4 +1,4 @@
-<p align="center"><b>Furkan Aktas - iOS Developer</b></p>
+<p align="center" style="font-size:50px;"><b>Furkan Aktas - iOS Developer</b></p>
 
 <p>I am Furkan Aktas from Turkey.I am an iOS developer who is ready to take responsibility and demonstrate my skills in line with the manner of clean code and completing tasks on time in projects.Open-minded to new technologies, strong-understanding of new concepts in Software Development and iOS Development.</p>
 
