@@ -2,7 +2,7 @@
 
 I'm a mobile application developer. I work with Swift, UIKit and SwiftUI and create native iOS applications, demo projects and other works using these tools now. You can find these works in my repo. On the other hand a while ago i've started studying Flutter and making swift progress on it. Soon i will be creating projects and applications on Flutter and gain the capability to create an app for both platforms.
 
-I am in search of a job now. Here is my [CV](https://github.com/user-attachments/files/18221550/Furkan_Aktas.pdf). You can check my repo as well. If my CV or repo draws your attention, please let me know. You can reach me from [Linkedin](https://www.linkedin.com/in/furkan-akta%C5%9F-0b81b5125/).
+I am in search of a job now. Here is my [CV](https://github.com/user-attachments/files/19968434/Furkan_Aktas.pdf). You can check my repo as well. If my CV or repo draws your attention, please let me know. You can reach me from [Linkedin](https://www.linkedin.com/in/furkan-akta%C5%9F-0b81b5125/).
 
 ### Languages and Tools
 
